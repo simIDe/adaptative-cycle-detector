@@ -1,0 +1,8 @@
+click
+pandas
+numpy
+matplotlib
+scipy
+pyarrow
+pytest
+pytest-mock
